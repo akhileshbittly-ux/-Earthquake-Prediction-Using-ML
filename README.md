@@ -48,3 +48,7 @@ An interactive Streamlit web application that uses Machine Learning (Random Fore
 ## 📊 Data Source
 - **Primary Source:** Data is requested dynamically from the United States Geological Survey (USGS) API.
 - **Manual Uploads:** If your network blocks the direct USGS endpoint, you can manually download and feed data from the [USGS Earthquake Hazards Program](https://usgs.gov).
+
+
+
+Here's the application link:https://8fntwogcehv394vnz45uog.streamlit.app/
