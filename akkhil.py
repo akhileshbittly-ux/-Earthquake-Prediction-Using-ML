@@ -7,7 +7,6 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import joblib
-import country as rg
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
